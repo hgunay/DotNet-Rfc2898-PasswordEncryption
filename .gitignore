@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DotNet_Rfc2898_PasswordEncryption/obj
+/DotNet_Rfc2898_PasswordEncryption/bin/Debug/netcoreapp3.1
+/DotNet_Rfc2898_PasswordEncryption/.vs/DotNet_Rfc2898_PasswordEncryption/v16
